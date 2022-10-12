@@ -6,7 +6,7 @@ import tn.talan.compteservice.repositories.CompteRepository;
 
 import java.util.List;
 
-@RestController
+//@RestController
 public class CompteRestController {
     private CompteRepository compteRepository;
 
